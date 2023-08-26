@@ -9,7 +9,7 @@ const Form = () => {
     return (
         <div>
             <label>
-                Enter the date
+                Enter the divasam
                 <input type="text" value={name} onChange={(e) => setName(e.target.value)} ></input>
                 {/* {console.log('hi, my name is jaick')} */}
             </label>
